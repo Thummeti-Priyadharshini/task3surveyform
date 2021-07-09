@@ -1,0 +1,40 @@
+.container{
+text-align: center;
+background-image: linear-gradient(rgb(227, 247, 47) ,white);
+line-height: 40px;
+}
+label .q1,.q2,.q3,.q4,.q5,.q6,.q7,.q8,.q9,.q10,.q11{
+    color:black;
+    font-size: 25px;
+
+    line-height: 50px;
+    
+    
+
+}
+button{
+    background-color: green;
+    width:150px;
+    height: 40px;
+    text-align: center;
+    
+    font-size: 30px;
+}
+div{
+   margin-top: 30px;
+margin-bottom: 30px;
+}
+label{
+    line-height: 50px;
+    font-size: 16px;
+}
+body{
+    
+        background-color: black;
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+    
+
+    
+}

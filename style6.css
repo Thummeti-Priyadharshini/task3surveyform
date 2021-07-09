@@ -1,0 +1,50 @@
+body{
+    background-color:aliceblue;
+    text-align: center;
+    margin-left:200px;
+    margin-right: 200px;
+    border:2px black solid;
+    border-style: dotted;
+}
+form{
+    margin-left:200px;
+    margin-right: 200px;
+    text-align: center;
+    line-height: 60px;
+    background-image: linear-gradient(rgb(253, 249, 249),yellow,rgb(201, 184, 184));
+   
+}
+input{
+    border-bottom:black;
+    
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+select{
+    border-bottom:black;
+   
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+ .heading{
+    border: 1px; 
+    border-style: dashed; 
+    font-size: 20px; 
+    font-style: italic;
+    margin-left: 250px;
+    margin-right: 250px;
+    color:black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
+button{
+    background-color: chartreuse;
+    width:100px;
+
+}
